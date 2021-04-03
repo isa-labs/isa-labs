@@ -5,7 +5,7 @@
 - :smile_cat::sushi::pizza:
 - :rocket: STEM
 - :books: Chemical Engineering Student and Electronics Technician
-- :raising_hand: I’m looking to collaborate on Open :heart: Source projects
+- :raising_hand: I’m looking to collaborate on Open :hearts: Source projects
 
 ## Languages and Tools
 <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="30" height="30"/></a> <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/>
