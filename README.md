@@ -1,8 +1,9 @@
-# Hi, I'm Isa!
+# Hi, I'm Isa! :crown:
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedIn.com/in/isabelacristinamendesbarbosa/)](https://www.linkedin.com/in/isabelacristinamendesbarbosa/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:contact.isabelamendes@gmail.com)](mailto:contact.isabelamendes@gmail.com)
 
 ## About me
 - :rocket: STEM
+- 
 - :raising_hand: I’m looking to collaborate on Open :heart: Source projects
 
 ## Languages and Tools
