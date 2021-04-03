@@ -2,9 +2,10 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedIn.com/in/isabelacristinamendesbarbosa/)](https://www.linkedin.com/in/isabelacristinamendesbarbosa/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:contact.isabelamendes@gmail.com)](mailto:contact.isabelamendes@gmail.com)
 
 ## About me
-- :smile_cat::sushi::pizza:
+- :smile_cat::sushi::pizza::cake:
 - :rocket: STEM
-- :books: Chemical Engineering Student and Electronics Technician
+- :books: Chemical Engineering Student
+- :zap: Electronics Technician
 - :raising_hand: I’m looking to collaborate on Open :hearts: Source projects
 
 ## Languages and Tools
