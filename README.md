@@ -20,7 +20,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/itsabela.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/itsabela?tab=followers) [![LinkedIn Badge]
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsabela&theme=material-palenight&hide_border=true)
-<!--&background=193549-->
+<!--&background=193549
 <a href="https://www.linkedin.com/in/isabelacristinamendesbarbosa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&amp;logo=linkedin&amp"/</a>
 - :e-mail: contact.isabelamendes@gmail.com
 -->
