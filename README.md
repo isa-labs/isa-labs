@@ -7,7 +7,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedIn.com/in/isabelacristinamendesbarbosa/)](https://www.linkedin.com/in/isabelacristinamendesbarbosa/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:contact.isabelamendes@gmail.com)](mailto:contact.isabelamendes@gmail.com)
 
 ## Performance
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsabela&theme=material-palenight&show_icons=true&count_private=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=itsabela&theme=material-palenight&show_icons=true&count_private=true&hide_border=true)
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsabela&theme=material-palenight&hide_border=true)
 <!--&background=193549-->
