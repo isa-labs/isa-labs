@@ -9,19 +9,18 @@
 - :raising_hand: I’m looking to collaborate on Open :hearts: Source projects
 
 ## Languages and Tools
-[![C/C++](https://img.shields.io/badge/-C/C++-00599C?style=flat&logo=C++&logoColor=white)](https://www.cprogramming.com/) [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)](https://www.python.org/)
+[![C/C++](https://img.shields.io/badge/-C/C++-00599C?style=flat&logo=C++&logoColor=white)](https://www.cprogramming.com/) [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)](https://www.python.org/) [![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=Java&logoColor=white)](https://www.java.com/)
 
 [![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)](https://www.arduino.cc/) [![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) [![Sublime](https://img.shields.io/badge/-Sublime-FF9800?style=flat&logo=sublime-text&logoColor=white)](https://www.sublimetext.com/) [![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat&logo=Trello&logoColor=white)](https://www.trello.com/)
 
 ## Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=itsabela&theme=buefy&show_icons=true&count_private=true&hide_border=true&hide_title=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsabela&theme=nightowl&show_icons=true&count_private=true&hide_border=true&hide_title=true&include_all_commits=true)
 
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsabela&theme=material-palenight&hide_border=true)
 &background=193549
-[![Java Badge](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=Java&logoColor=white)](https://www.java.com/)
-[![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=Telegram&logoColor=white)](https://www.java.com/)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=Telegram&logoColor=white)](https://www.java.com/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsabela&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub followers](https://img.shields.io/github/followers/itsabela.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/itsabela?tab=followers) [![LinkedIn Badge]
 <a href="https://www.linkedin.com/in/isabelacristinamendesbarbosa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&amp;logo=linkedin&amp"/></a>
