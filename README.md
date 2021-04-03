@@ -11,7 +11,12 @@
 - :raising_hand: I’m looking to collaborate on Open :hearts: Source projects
 
 ## Languages and Tools
-[![C/C++ Badge](https://img.shields.io/badge/-C/C++-00599C?style=flat&logo=C++&logoColor=white)](https://www.cprogramming.com/) [![Arduino Badge](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)](https://www.arduino.cc/) [![VS Code Badge](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) [![Sublime Badge](https://img.shields.io/badge/-Sublime-FF9800?style=flat&logo=sublime-text&logoColor=white)](https://www.sublimetext.com/) [![Trello Badge](https://img.shields.io/badge/-Trello-0079BF?style=flat&logo=Trello&logoColor=white)](https://www.trello.com/)
+[![C/C++ Badge](https://img.shields.io/badge/-C/C++-00599C?style=flat&logo=C++&logoColor=white)](https://www.cprogramming.com/) [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)](https://www.python.org/)
+
+[![Arduino Badge](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)](https://www.arduino.cc/) [![VS Code Badge](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) [![Sublime Badge](https://img.shields.io/badge/-Sublime-FF9800?style=flat&logo=sublime-text&logoColor=white)](https://www.sublimetext.com/) [![Trello Badge](https://img.shields.io/badge/-Trello-0079BF?style=flat&logo=Trello&logoColor=white)](https://www.trello.com/)
+
+
+
 
 <!--<a href="https://www.arduino.cc" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="c" width="25" height="25"/></a> <a href="https://www.visualstudiocode.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="c" width="25" height="25"/></a> <a href="https://www.sublimetext.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" alt="c" width="25" height="25"/></a> <a href="https://www.trello.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/trello.svg" alt="c" width="25" height="25"/></a>-->
 
