@@ -10,7 +10,7 @@
 ## Languages and Tools
 <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="25" height="25"/>
 
-[![Arduino Badge](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)](https://www.arduino.cc/) [![Trello Badge](https://img.shields.io/badge/-Trello-0079BF?style=flat&logo=Trello&logoColor=white)](https://www.trello.com/) [![VS Code Badge](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) [![Sublime Badge](https://img.shields.io/badge/-Sublime-FF9800?style=flat&logo=sublime-text&logoColor=white)](https://www.sublimetext.com/)
+[![Arduino Badge](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white&target=_blank)](https://www.arduino.cc/) [![Trello Badge](https://img.shields.io/badge/-Trello-0079BF?style=flat&logo=Trello&logoColor=white)](https://www.trello.com/) [![VS Code Badge](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) [![Sublime Badge](https://img.shields.io/badge/-Sublime-FF9800?style=flat&logo=sublime-text&logoColor=white)](https://www.sublimetext.com/)
 
 ## Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=itsabela&theme=material-palenight&show_icons=true&count_private=true&hide_border=true&hide_title=true&include_all_commits=true)
