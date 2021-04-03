@@ -8,9 +8,6 @@
 ## Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=itsabela&theme=material-palenight&show_icons=true&count_private=true&hide_border=true&hide_title=true&include_all_commits=true)
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsabela&theme=material-palenight&hide_border=true)
-<!--&background=193549-->
-
 ## Connect
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedIn.com/in/isabelacristinamendesbarbosa/)](https://www.linkedin.com/in/isabelacristinamendesbarbosa/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:contact.isabelamendes@gmail.com)](mailto:contact.isabelamendes@gmail.com)
 
@@ -22,6 +19,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsabela&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub followers](https://img.shields.io/github/followers/itsabela.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/itsabela?tab=followers) [![LinkedIn Badge]
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsabela&theme=material-palenight&hide_border=true)
+<!--&background=193549-->
 <a href="https://www.linkedin.com/in/isabelacristinamendesbarbosa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&amp;logo=linkedin&amp"/</a>
 - :e-mail: contact.isabelamendes@gmail.com
 -->
