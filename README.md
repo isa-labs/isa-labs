@@ -7,9 +7,9 @@
 
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsabela&theme=material-palenight&show_icons=false&count_private=true&hide_border=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsabela&theme=material-palenight&show_icons=true&count_private=true&hide_border=true)
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsabela&theme=material-palenight&hide_border=true)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsabela&theme=material-palenight&hide_border=false)
 <!--&background=193549-->
 
 <!--
