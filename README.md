@@ -1,4 +1,7 @@
-## About
+# Hi, I'm Isa!
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedIn.com/in/isabelacristinamendesbarbosa/)](https://www.linkedin.com/in/isabelacristinamendesbarbosa/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:contact.isabelamendes@gmail.com)](mailto:contact.isabelamendes@gmail.com)
+
+## About me
 - :rocket: STEM
 - :raising_hand: I’m looking to collaborate on Open :heart: Source projects
 
@@ -7,9 +10,6 @@
 
 ## Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=itsabela&theme=material-palenight&show_icons=true&count_private=true&hide_border=true&hide_title=true&include_all_commits=true)
-
-## Connect
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedIn.com/in/isabelacristinamendesbarbosa/)](https://www.linkedin.com/in/isabelacristinamendesbarbosa/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:contact.isabelamendes@gmail.com)](mailto:contact.isabelamendes@gmail.com)
 
 <!--
 [![Java Badge](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=Java&logoColor=white)](https://www.java.com/)
