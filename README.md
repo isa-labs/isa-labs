@@ -1,4 +1,4 @@
-# Hi, I'm Isa! <a href="https://www.linkedin.com/in/isabelacristinamendesbarbosa/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="c" width="20" height="20"/></a> <a href="mailto:contact.isabelamendes@gmail.com" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="c" width="20" height="20"/></a> <a href="https://www.google.com" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" alt="c" width="20" height="20"/></a>
+# Hi, I'm Isa! <a href="https://www.linkedin.com/in/isabelacristinamendesbarbosa/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="c" width="20" height="20"/></a> <a href="mailto:contact.isabelamendes@gmail.com" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="c" width="20" height="20"/></a>
 <!--[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedIn.com/in/isabelacristinamendesbarbosa/)](https://www.linkedin.com/in/isabelacristinamendesbarbosa/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:contact.isabelamendes@gmail.com)](mailto:contact.isabelamendes@gmail.com) [![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=Telegram&logoColor=white)](https://www.google.com/)-->
 
 <!--## About me-->
@@ -32,4 +32,5 @@
 <a href="https://www.linkedin.com/in/isabelacristinamendesbarbosa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&amp;logo=linkedin&amp"/></a>
 <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="30" height="30"/></a>
 - :e-mail: contact.isabelamendes@gmail.com
+<a href="https://www.google.com" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" alt="c" width="20" height="20"/></a>
 -->
