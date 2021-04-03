@@ -14,7 +14,7 @@
 [![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)](https://www.arduino.cc/) [![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) [![Sublime](https://img.shields.io/badge/-Sublime-FF9800?style=flat&logo=sublime-text&logoColor=white)](https://www.sublimetext.com/) [![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat&logo=Trello&logoColor=white)](https://www.trello.com/)
 
 ## Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsabela&theme=material-palenight&show_icons=true&count_private=true&hide_border=true&hide_title=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsabela&theme=buefy&show_icons=true&count_private=true&hide_border=true&hide_title=true&include_all_commits=true)
 
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
