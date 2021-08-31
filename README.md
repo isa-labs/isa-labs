@@ -4,7 +4,7 @@
 
 ## About me
 - :rocket: STEM
-- :books: Chemical Engineering Student
+- :test_tube: Chemical Engineering Student
 - :zap: Electronics Technician
 - :raising_hand: I’m looking to collaborate on Open :hearts: Source projects
 
