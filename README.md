@@ -6,7 +6,7 @@
 - :rocket: STEM
 - :test_tube: Chemical Engineering Student
 - :zap: Electronics Technician
-- :raising_hand: I’m looking to collaborate on Open :hearts: Source projects
+- :raising_hand: Open :hearts: Source projects
 
 ## Languages and Tools
 [![C/C++](https://img.shields.io/badge/-C/C++-00599C?style=flat&logo=C++&logoColor=white)](https://www.cprogramming.com/) [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)](https://www.python.org/) <!--[![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=Java&logoColor=white)](https://www.java.com/)-->
