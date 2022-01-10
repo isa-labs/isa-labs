@@ -1,6 +1,6 @@
 # Hi, I'm Isa! :crown:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedIn.com/in/isabelacristinamendesbarbosa/)](https://www.linkedin.com/in/isabelacristinamendesbarbosa/) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:contact.isabelamendes@gmail.com)](mailto:contact.isabelamendes@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedIn.com/in/isabelacristinamendesbarbosa/)](https://www.linkedin.com/in/isabelacristinamendesbarbosa/)
 
 ## About me
 - :rocket: STEM
@@ -16,6 +16,7 @@
 <!--
 ## Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsabela&theme=material-palenight&show_icons=true&count_private=true&hide_border=true&hide_title=true&include_all_commits=true)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:contact.isabelamendes@gmail.com)](mailto:contact.isabelamendes@gmail.com)
 -->
 
 <!--
