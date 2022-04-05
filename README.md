@@ -4,7 +4,7 @@
 
 ## About me
 - :rocket: STEM
-- :test_tube: Chemical Engineering Student
+- :alembic: Chemical Engineering Student
 - :zap: Electronics Technician
 - :raising_hand: Open :hearts: Source projects
 
