@@ -1,7 +1,7 @@
 # Hi, I'm Isa! :crown:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedIn.com/in/isabelacristinamendesbarbosa/)](https://www.linkedin.com/in/isabelacristinamendesbarbosa/)
-![Twitter](https://img.shields.io/twitter/follow/isa_labs?style=social)
+[![Twitter](https://img.shields.io/twitter/follow/isa_labs?style=social)](https://twitter.com/isa_labs)
 
 ## About me
 - :rocket: STEM
