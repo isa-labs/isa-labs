@@ -2,14 +2,16 @@
 
 ## About me
 - :rocket: STEM
-- :alembic: Chemical Engineering Student
-- :zap: Electronics Technician
-- :raising_hand: Open :hearts: Source projects
 
 ## Languages and Tools
-[![C/C++](https://img.shields.io/badge/-C/C++-00599C?style=flat&logo=C++&logoColor=white)](https://www.cprogramming.com/) [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)](https://www.python.org/) <!--[![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=Java&logoColor=white)](https://www.java.com/)-->
+[![C/C++](https://img.shields.io/badge/-C/C++-00599C?style=flat&logo=C++&logoColor=white)](https://www.cprogramming.com/) [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)](https://www.python.org/) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![SQL](https://img.shields.io/badge/sql-6DB33F?style=for-the-badge&logo=postgresql&logoColor=white)
 
-[![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)](https://www.arduino.cc/) [![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) [![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=flat&logo=PyCharm&logoColor=black&color=green)](https://www.jetbrains.com/pycharm/) [![Sublime Text](https://img.shields.io/badge/Sublime_Text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important)](https://www.sublimetext.com/) [![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat&logo=Trello&logoColor=white)](https://www.trello.com/)
+<!--[![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=Java&logoColor=white)](https://www.java.com/)-->
+
+[![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) [![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=flat&logo=PyCharm&logoColor=black&color=green)](https://www.jetbrains.com/pycharm/) [![Sublime Text](https://img.shields.io/badge/Sublime_Text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important)](https://www.sublimetext.com/) [![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat&logo=Trello&logoColor=white)](https://www.trello.com/)
+
+
+<!--[![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)](https://www.arduino.cc/)-->
 
 <!--
 ## Stats
