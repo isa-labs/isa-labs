@@ -1,10 +1,5 @@
-# Hi, I'm Isa!
-
-## About me
-- :rocket: STEM
-
 ## Languages and Tools
-[![C/C++](https://img.shields.io/badge/-C/C++-00599C?style=flat&logo=C++&logoColor=white)](https://www.cprogramming.com/) [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)](https://www.python.org/) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![SQL](https://img.shields.io/badge/sql-6DB33F?style=for-the-badge&logo=postgresql&logoColor=white)
+[![C/C++](https://img.shields.io/badge/-C/C++-00599C?style=flat&logo=C++&logoColor=white)](https://www.cprogramming.com/) [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)](https://www.python.org/) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![SQL](https://img.shields.io/badge/sql-6DB33F?style=flat&logo=postgresql&logoColor=white)
 
 <!--[![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=Java&logoColor=white)](https://www.java.com/)-->
 
