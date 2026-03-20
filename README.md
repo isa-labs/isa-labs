@@ -1,6 +1,6 @@
 # Hi, I'm Isa!
 
-I build data pipelines, ML models and analytical tools at the intersection of finance and data science.
+I build data pipelines, ML models and analytical tools at the intersection of data science and finance.
 
 ## 🛠️ Stacks
 
