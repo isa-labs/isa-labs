@@ -9,7 +9,7 @@ I build data pipelines, ML models and analytical tools at the intersection of fi
 [![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)](https://matplotlib.org/)
 ![SQL](https://img.shields.io/badge/SQL-blue?style=flat)
-![AWS Athena](https://img.shields.io/badge/AWS_Athena-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+[![AWS Athena](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/pt/athena/)
 [![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 
