@@ -1,22 +1,33 @@
-## Languages and Tools
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)](https://www.python.org/) [![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/) [![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)](https://numpy.org/) ![SQL](https://img.shields.io/badge/SQL-6DB33F?style=flat&logo=postgresql&logoColor=white) [![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) 
+# Hi, I'm Isa!
 
-<!-- [![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=flat&logo=PyCharm&logoColor=black&color=green)](https://www.jetbrains.com/pycharm/) -->
+I build data pipelines, ML models and analytical tools at the intersection of finance and data science.
 
-<!-- [![Sublime Text](https://img.shields.io/badge/Sublime_Text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important)](https://www.sublimetext.com/) [![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat&logo=Trello&logoColor=white)](https://www.trello.com/)-->
+## 🛠️ Stacks
 
+[![Python](https://img.shields.io/badge/-Python-3670A0?style=flat&logo=Python&logoColor=ffdd54)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)](https://matplotlib.org/)
+![SQL](https://img.shields.io/badge/SQL-blue?style=flat)
+![AWS Athena](https://img.shields.io/badge/AWS_Athena-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+[![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 
-<!-- [![C/C++](https://img.shields.io/badge/-C/C++-00599C?style=flat&logo=C++&logoColor=white)](https://www.cprogramming.com/) -->
+## 💌 Connect
 
-<!--[![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)](https://www.arduino.cc/)-->
-<!--[![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=Java&logoColor=white)](https://www.java.com/)-->
-<!--
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabelacristinamendesbarbosa/)
+[![Twitter](https://img.shields.io/badge/@isa__labs-000000?style=flat&logo=twitter&logoColor=white)](https://twitter.com/isa_labs)
+[![Instagram](https://img.shields.io/badge/isa.labs-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/isa.labs/)
+
+<!-- 
+[![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=flat&logo=PyCharm&logoColor=black&color=green)](https://www.jetbrains.com/pycharm/)
+[![Sublime Text](https://img.shields.io/badge/Sublime_Text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important)](https://www.sublimetext.com/) [![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat&logo=Trello&logoColor=white)](https://www.trello.com/)
+[![C/C++](https://img.shields.io/badge/-C/C++-00599C?style=flat&logo=C++&logoColor=white)](https://www.cprogramming.com/)
+[![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)](https://www.arduino.cc/)
+[![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=Java&logoColor=white)](https://www.java.com/)
 ## Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsabela&theme=material-palenight&show_icons=true&count_private=true&hide_border=true&hide_title=true&include_all_commits=true)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:contact.isabelamendes@gmail.com)](mailto:contact.isabelamendes@gmail.com)
--->
-
-<!--
+###
 [![Sublime](https://img.shields.io/badge/-Sublime-FF9800?style=flat&logo=sublime-text&logoColor=white)]
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsabela&theme=material-palenight&hide_border=true)
