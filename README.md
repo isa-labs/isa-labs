@@ -2,7 +2,7 @@
 
 I build data pipelines, ML models and analytical tools at the intersection of data science and finance.
 
-## 🛠️ Stacks
+## Stacks
 
 [![Python](https://img.shields.io/badge/-Python-3670A0?style=flat&logo=Python&logoColor=ffdd54)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
@@ -13,7 +13,7 @@ I build data pipelines, ML models and analytical tools at the intersection of da
 [![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 
-## 💌 Connect
+## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabelacristinamendesbarbosa/)
 [![Twitter](https://img.shields.io/badge/@isa__labs-000000?style=flat&logo=twitter&logoColor=white)](https://twitter.com/isa_labs)
