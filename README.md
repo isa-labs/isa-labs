@@ -2,6 +2,12 @@
 
 I build data pipelines, ML models and analytical tools at the intersection of data science and finance.
 
+## Projects
+
+| Project | Description | Stacks |
+|---|---|---|
+| **[CVM Fund Analytics](https://github.com/isa-labs/cvm-fund-analytics)** | Risk/return analysis and K-Means clustering of 26k+ CVM-registered investment funds | Python, Pandas, scikit-learn, Matplotlib |
+
 ## Stacks
 
 [![Python](https://img.shields.io/badge/-Python-3670A0?style=flat&logo=Python&logoColor=ffdd54)](https://www.python.org/)
