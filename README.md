@@ -6,7 +6,7 @@ I build data pipelines, ML models and analytical tools at the intersection of da
 
 | Project | Description | Stacks |
 |---|---|---|
-| **[CVM Fund Analytics](https://github.com/isa-labs/cvm-fund-analytics)** | Risk/return analysis and K-Means clustering of 26k+ CVM-registered investment funds | Python, Pandas, scikit-learn, Matplotlib |
+| **[CVM Fund Analytics](https://github.com/isa-labs/cvm-fund-analytics)** | Risk/return analysis and K-Means clustering of 26k+ CVM-registered investment funds | Python, Pandas, scikit-learn, Matplotlib, DuckDB, Streamlit, Plotly |
 
 ## Stacks
 
@@ -15,6 +15,9 @@ I build data pipelines, ML models and analytical tools at the intersection of da
 [![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)](https://matplotlib.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)](https://plotly.com/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![DuckDB](https://img.shields.io/badge/DuckDB-FFC107?style=flat&logo=duckdb&logoColor=black)](https://duckdb.org/)
 ![SQL](https://img.shields.io/badge/SQL-blue?style=flat)
 [![AWS Athena](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/pt/athena/)
 [![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
