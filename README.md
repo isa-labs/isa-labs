@@ -6,7 +6,7 @@ I build data pipelines, ML models and analytical tools at the intersection of da
 
 | Project | Description | Stacks |
 |---|---|---|
-| **[CVM Fund Analytics](https://github.com/isa-labs/cvm-fund-analytics)** | Risk/return analysis and K-Means clustering of 26k+ CVM-registered investment funds | Python, Pandas, scikit-learn, Matplotlib, DuckDB, Streamlit, Plotly |
+| **[CVM Fund Analytics](https://github.com/isa-labs/cvm-fund-analytics)** | Risk/return analysis and K-Means clustering of 26k+ CVM-registered investment funds | Python, Pandas, scikit-learn, Matplotlib, DuckDB, Streamlit, Plotly, Dask |
 
 ## Stacks
 
