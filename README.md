@@ -18,6 +18,7 @@ I build data pipelines, ML models and analytical tools at the intersection of da
 [![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)](https://plotly.com/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![DuckDB](https://img.shields.io/badge/DuckDB-FFC107?style=flat&logo=duckdb&logoColor=black)](https://duckdb.org/)
+[![Dask](https://img.shields.io/badge/Dask-1287B1?style=flat&logo=dask&logoColor=white)](https://dask.org/)
 ![SQL](https://img.shields.io/badge/SQL-blue?style=flat)
 [![AWS Athena](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/pt/athena/)
 [![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
